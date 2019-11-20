@@ -37,7 +37,7 @@
 # Git 기본 명령어
   1. Git의 작업 공간은 크게 관리 대상인 파일과 관리대상이 아닌 파일으로 나뉘어져 있음
   
-  2. Git add 명령어는 작업폴더에서 수정된 내용을 stage에 올리고, commit 명령어는 stage에 올려진 파일을 로컬 .git derectory에 저장함
+  2. Git add 명령어는 작업폴더에서 수정된 내용을 stage에 올리고, commit 명령어는 stage에 올려진 파일을 로컬 .git directory에 저장함
   
   3. Push 명령어는 로컬에서 업데이트 된 내용들을, 원격 저장소에 업로드하는 명령어임
   
