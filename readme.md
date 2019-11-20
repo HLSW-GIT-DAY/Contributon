@@ -54,5 +54,5 @@
   
     * Bouncycastle에는 다양한 암호알고리즘이 존재함
     * Bouncycastle에는 암호학적 해쉬 함수들이 존재하고, 특정 input에 대한 암호학적 해쉬함수 결과값을 만들기 위해서는 
-      항상 update함수와 Digest함수를 사용해야 함
+      update함수와 Digest함수를 사용해야 함
     
