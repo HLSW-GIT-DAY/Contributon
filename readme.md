@@ -24,7 +24,7 @@
     * GPL 2.0은 SW 특허 문제와 설치정보와 관련된 문제(DRM)으로 인해 GPL 3.0 으로 개정되었음
     * GPL 3.0에서는 라이선스에 포함된 특허의 권리를 양도하는 patent grant와 라이선스 규정을 어겼을 때 발동하는 
       patent retailiation 조항이 있음
-    * GPL 2.0, 3.0 모두 모든 derived work의 소스코드 공개를 요구함
+    * GPL 2.0, 3.0 새롭게 배포를 하는 경우 모든 derived work의 소스코드 공개를 요구함
 
 
 # 오픈소스 거버넌스
